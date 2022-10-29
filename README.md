@@ -1,4 +1,4 @@
-### 鱼缸计算器 - 技术与支持
-在使用鱼缸计算器应用时，遇到任何问题请将问题发送到以下邮箱。我们将在第一时间给您反馈！
-
-邮箱地址：ygzs2022@163.com
+###Baby Growth Record - Technology and Support
+When using the fish tank calculator application, please send any problems to the following email address. We will give you feedback at the first time!
+e-mail address: ygzs2022@163.com
+！
